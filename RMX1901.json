@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "м∂ ιѕяαƒιℓ",
+			"oem": "Realme",
+			"device": "Realme X",
+			"filename": "RisingOS-2.2-RELEASE-20240507-GAPPS-COMMUNITY-RMX1901.zip",
+			"download": "https://sourceforge.net/projects/rmx1091-a14/files/RisingOS/RisingOS-2.2-RELEASE-20240507-GAPPS-COMMUNITY-RMX1901.zip/download",
+			"timestamp": 1715090459,
+			"md5": "02c3a91fe2f49400a67e52feca134408",
+			"sha256": "0cd1bd7ddbc464254b98d55c68f5239d1bd4de138483cf1b9d687aeb3b03eed2",
+			"size": 2139743165,
+			"version": "v2.2-ignis",
+			"buildtype": "Monthly",
+			"forum": "https://t.me/rmx1901_builder",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "https://t.me/ij_israfil",
+			"dt": "https://github.com/ij-israfil/device_realme_RMX1901",
+			"common-dt": "",
+			"kernel": "https://github.com/ij-israfil/android_kernel_realme_sdm710"
+		}
+	]
+}
