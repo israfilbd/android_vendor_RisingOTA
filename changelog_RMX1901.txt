@@ -1,0 +1,21 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: Realme X (RMX1901)
+Device maintainer: м∂ ιѕяαƒιℓ
+
+====================
+     08-05-2024
+====================
+- Initial Build
+- Synced Latest rising v2.2 changes
+- Merged April ASB (android-14.0.0_r31)
+- Safety Net Pass by default
+- Updated system blobs
+- Fixed DT2W mic blocking issue
+- Droped OMX.qcom.video.decoder.vp9
+- Update CarrierConfig overlay
+- Block 3rd party ads by default.
+- Fix Zram swippiness value
+- Update target kernel level
+- Latest kernel Upstreamed 
+- Misc. Fixes and Improvements
