@@ -4,6 +4,19 @@ Device: Realme X (RMX1901)
 Device maintainer: м∂ ιѕяαƒιℓ
 
 ====================
+     21-05-2024
+====================
+- MAY QPR2 Security Patched merged
+- User build
+- Set higher priority to c2 than OMX
+- Vp9 codec added again
+- Video playback issue fixed completely 
+- Disable Smart Pixels on UDFPS
+- Enforce vintf kernel requirements
+- So FOD is more smooth now.
+- LMK added in kernel. Ram issue could be fixed.4GB user can try.
+- More improvements and bug fixes!
+====================
      08-05-2024
 ====================
 - Initial Build
